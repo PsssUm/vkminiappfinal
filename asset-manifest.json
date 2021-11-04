@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/vkminiappfinal/static/css/main.afd7172b.chunk.css",
-    "main.js": "/vkminiappfinal/static/js/main.eb3adbe1.chunk.js",
-    "main.js.map": "/vkminiappfinal/static/js/main.eb3adbe1.chunk.js.map",
+    "main.js": "/vkminiappfinal/static/js/main.e97827e3.chunk.js",
+    "main.js.map": "/vkminiappfinal/static/js/main.e97827e3.chunk.js.map",
     "runtime-main.js": "/vkminiappfinal/static/js/runtime-main.15ce92b8.js",
     "runtime-main.js.map": "/vkminiappfinal/static/js/runtime-main.15ce92b8.js.map",
     "static/css/2.cf5ef10e.chunk.css": "/vkminiappfinal/static/css/2.cf5ef10e.chunk.css",
-    "static/js/2.1d6d36fb.chunk.js": "/vkminiappfinal/static/js/2.1d6d36fb.chunk.js",
-    "static/js/2.1d6d36fb.chunk.js.map": "/vkminiappfinal/static/js/2.1d6d36fb.chunk.js.map",
+    "static/js/2.73053265.chunk.js": "/vkminiappfinal/static/js/2.73053265.chunk.js",
+    "static/js/2.73053265.chunk.js.map": "/vkminiappfinal/static/js/2.73053265.chunk.js.map",
     "index.html": "/vkminiappfinal/index.html",
     "static/css/2.cf5ef10e.chunk.css.map": "/vkminiappfinal/static/css/2.cf5ef10e.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/vkminiappfinal/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.1d6d36fb.chunk.js.LICENSE.txt": "/vkminiappfinal/static/js/2.1d6d36fb.chunk.js.LICENSE.txt"
+    "static/js/2.73053265.chunk.js.LICENSE.txt": "/vkminiappfinal/static/js/2.73053265.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15ce92b8.js",
     "static/css/2.cf5ef10e.chunk.css",
-    "static/js/2.1d6d36fb.chunk.js",
+    "static/js/2.73053265.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.eb3adbe1.chunk.js"
+    "static/js/main.e97827e3.chunk.js"
   ]
 }
